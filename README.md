@@ -1,39 +1,61 @@
-# I've joined the #100DaysOfCode Challenge
+# #100DaysOfCode wishlist
 
-## Contents
+Keeping track of a few things to work on when kids are in bed.
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+## Open source projects
 
-## Translations
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [polski](intl/pl/README.md) - [русский](intl/ru/README-ru.md) - [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)
+Favor these ongoing projects
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+- [Facets Summary](https://www.drupal.org/project/facets)
+- [Obfuscate](https://www.drupal.org/project/obfuscate)
+- [Private Entity](https://www.drupal.org/project/private_entity)
+- [Production Checklist](https://www.drupal.org/project/production_checklist)
+- [Message Group Notify]((https://www.drupal.org/project/message_group_notify))
+- [Mastodon](https://www.drupal.org/project/obfuscate)
 
-## If you've decided to join:
+## Side projects
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-1.  **Code minimum an hour every day for the next 100 days.**
-1.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-1.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-1.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-1.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-1.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-1.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+- [Drupal ecosystem data visualisation](https://github.com/colorfield/planetdrupal): a project based on React and Bulma that gets data from the Drupal.org API with Python
+- [Longboard Planet](https://github.com/colorfield/longboardplanet): static port of a Drupal 7 site, with Vue and Gatsby
 
-## Want to change other habits?
+## Drupal caching
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+Go beyond the basics of caching.
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+## Improve PHP skills
 
-## Note
+- Review the 7.x new features and use them.
+- Apply functional programming techniques.
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+## Design patterns
+
+Refactor projects with common (or less common) patterns.
+
+## Debug
+
+Improve debugging techniques.
+
+## Tests
+
+Use them in projects/improve test coverage with Javascript (Jest, Nightwatch), PHP (PHP Unit), Behat.
+
+## Algorithms and data structures
+
+Learn new languages with algorithms and DS that haven't been 
+revisited since school time (sorts, priority queue, ...).
+
+## Mathematics
+
+Stay curious about boolean algebra 
+([Karnaugh map](https://en.wikipedia.org/wiki/Karnaugh_map),
+[truth table](https://en.wikipedia.org/wiki/Truth_table), ...), 
+[matrix calculation](https://en.wikipedia.org/wiki/Matrix_multiplication), ...
+
+## Machine learning
+
+Play around with [TensorFlow](https://www.tensorflow.org/)
+and progressively include ML in projects.
+
+## Grav
+
+Grav looks great, use it in a side project.
